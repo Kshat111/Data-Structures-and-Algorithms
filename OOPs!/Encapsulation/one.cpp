@@ -1,0 +1,1 @@
+//Encapsulation is just creating a class (done i nintro folder)
