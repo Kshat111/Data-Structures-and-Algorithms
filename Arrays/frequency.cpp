@@ -4,8 +4,8 @@
 using namespace std;
 void frequency(int arr[], int n){
     vector<bool> visited(n, false);
-    int count=0;
     for(int i=0;i<n;++i){
+    int count=1;
         if(visited[i]){
             continue;
         }
